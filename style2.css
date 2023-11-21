@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: bisque;
+}
+h2{
+    color: blue;
+    text-align: center;
+    background-color: aquamarine;
+}
+#pg1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: bisque;
+    padding: 20px;
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    
+}
+
+#pg2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    background-color: bisque;
+    padding: 10px;
+    border: 2px;
+    border-color: red;
+    border-style: dashed;
+    border-radius: 15px;
+}
+#im1{
+    float: left;
+}
+#im2{
+    float: right;
+}
